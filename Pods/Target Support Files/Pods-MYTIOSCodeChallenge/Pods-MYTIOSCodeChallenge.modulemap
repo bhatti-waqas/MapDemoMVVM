@@ -1,0 +1,6 @@
+framework module Pods_MYTIOSCodeChallenge {
+  umbrella header "Pods-MYTIOSCodeChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
